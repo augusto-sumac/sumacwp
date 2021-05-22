@@ -1,0 +1,2 @@
+# sumacwp
+Simple Wordpress theme
